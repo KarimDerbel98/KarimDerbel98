@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimderbel98&label=Profile%20views&color=0e75b6&style=flat" alt="karimderbel98" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karimderbel98" alt="karimderbel98" /></a> </p>
-
 - 🔭 I’m currently working on **a Large-scale GRC project**
 
 - 👨‍💻 All of my projects are available at [https://karimderbel.vercel.app/](https://karimderbel.vercel.app/)
@@ -27,5 +25,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karimderbel98&show_icons=true&locale=en&layout=compact" alt="karimderbel98" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karimderbel98&show_icons=true&locale=en" alt="karimderbel98" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karimderbel98&" alt="karimderbel98" /></p>
